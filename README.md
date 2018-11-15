@@ -1,5 +1,6 @@
 # Presentation-Remote-using-Android-Laptop
 This Project is for Presentation Remote without any extra USB device.
+[ Only for Windows Operating System ]
 Extract the zip file.
 Then run the PresentationRemote.exe file and enter the IP address of your laptop.
 [you can find your ip address on network and sharing center or 
